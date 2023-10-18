@@ -1,2 +1,2 @@
 ## Running
-`docker run -e SENTRY_DSN="<YOUR-SENTRY-DSN>" sentry-error-faker:latest`
+`docker run -e SENTRY_DSN="<YOUR-SENTRY-DSN>" pagertree/sentry-error-faker:latest`
